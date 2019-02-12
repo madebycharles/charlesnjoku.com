@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+    <title>Yaron Schoen: Articles</title>
+    <description>Writings about things and stuff.</description>
+    <link>http://www.yaron.cc/</link>
+    <dc:language>en</dc:language>
+    <dc:rights>Copyright 2005-2013</dc:rights>
+    <pubDate>Wed, 17 Apr 2013 11:30:33 GMT</pubDate>
+    <admin:generatorAgent rdf:resource="Bare Hands"/>
+    <item>
+        <title>Bitter Sweet Symphony</title>
+        <description>Yesterday I came across an old Unkle remix of Bitter Sweet Symphony which obviously reminded me of the original version performed by the Verve.</description>
+        <link>http://yaronschoen.com/writing/bitter-sweet-symphony/</link>
+        <guid>http://yaronschoen.com/writing/bitter-sweet-symphony/</guid>
+        <pubDate>Mon, 19 August 2013 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Platform economics in a nutshell</title>
+        <description>When designing for flat design buttons that have rounded corners in CSS3 and HTML5, always remember to progressively enhance the skeuomorphic debris that sometimes renders in an otherwise perfect golden ratio. This happens when entrepreneurs incorporate design co-founders that help shape the online education platforms that sometimes appear in pop-up stores throughout the country.</description>
+        <link>http://yaronschoen.com/writing/platform-economics-in-a-nutshell/</link>
+        <guid>http://yaronschoen.com/writing/platform-economics-in-a-nutshell/</guid>
+        <pubDate>Thu, 11 July 2013 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Real designers nurture</title>
+        <description>The job of the artists is to create expressions. Expressions do not need to be tweaked, they are birthed into the world for others to interpret however they see fit. After shipping, the artist is then done and moves on to the next expression. The saying “real artists ship” makes a ton of sense.</description>
+        <link>http://yaronschoen.com/writing/real-designers-nurture/</link>
+        <guid>http://yaronschoen.com/writing/real-designers-nurture/</guid>
+        <pubDate>Wed, 17 Apr 2013 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Hello Sky</title>
+        <description>Hello Sky is a new track I've been playing around with for the past few days. It's still a work in progress, but I think it's at a place where it's good enough to share and is usable in mixes.</description>
+        <link>http://yaronschoen.com/writing/hello-sky/</link>
+        <guid>http://yaronschoen.com/writing/hello-sky/</guid>
+        <pubDate>Wed, 20 Mar 2013 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Let's not fall for the numbers game</title>
+        <description>I fell across this wonderful interview of Mr. Rogers, I suggest you listen to it while you work. In the third part, around 18 minutes in, he talks about the time he had at NBC before going into public broadcasting. What he says can technically be applied to any field, but it especially resonated with me because of my work on the Web.</description>
+        <link>http://yaronschoen.com/writing/lets-not-fall-for-the-numbers-game/</link>
+        <guid>http://yaronschoen.com/writing/lets-not-fall-for-the-numbers-game/</guid>
+        <pubDate>Thu, 28 Feb 2013 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>But what about soul?</title>
+        <description>It is recommended to build your web app on solid infrastructure. If you sit on a chair and it breaks, no one will mention how pretty its shade of brown is. So obviously if your site is down every other day, no one will praise the beauty of its glossy buttons.</description>
+        <link>http://yaronschoen.com/writing/but-what-about-soul/</link>
+        <guid>http://yaronschoen.com/writing/but-what-about-soul/</guid>
+        <pubDate>Fri, 1 Feb 2013 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Beauty is in the eye of the beholder</title>
+        <description>My mom always told me to never say never. That was probably the best advice I’ve ever received. It helped me in making many decisions in life when it comes to my career, my relationships and pretty much anything else...</description>
+        <link>http://yaronschoen.com/writing/beauty-is-in-the-eye-of-the-beholder/</link>
+        <guid>http://yaronschoen.com/writing/beauty-is-in-the-eye-of-the-beholder/</guid>
+        <pubDate>Thu, 24 Jan 2013 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Happy New Year!</title>
+        <description>This is my year in review. There are many like it, but this one is mine...</description>
+        <link>http://yaronschoen.com/writing/need-inspiration-go-to-the-dentist/</link>
+        <guid>http://yaronschoen.com/writing/need-inspiration-go-to-the-dentist/</guid>
+        <pubDate>Thu, 24 Jan 2013 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Need Inspiration? Go to the Dentist</title>
+        <description>My wife and I have been going to the same dentist for years and we are not planning on changing this any time soon. Normally people hate going to the dentist. Me? I don't mind it too much. Not because I'm a hero, but because we like our dentist...</description>
+        <link>http://yaronschoen.com/writing/happy-new-year-2013/</link>
+        <guid>http://yaronschoen.com/writing/happy-new-year-2013/</guid>
+        <pubDate>Fri, 7 Sept 2012 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Late Night</title>
+        <description>A few weeks ago I listened to Nicolas Jaar's Essential Mix for the first time. Man, what a musical experience. If you haven't listened to it already, please do. His mix was the inspiration for this one named "Late Night".</description>
+        <link>http://yaronschoen.com/music/late-night/</link>
+        <guid>http://yaronschoen.com/music/late-night/</guid>
+        <pubDate>Tue, 28 Aug 2012 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>In The Beginning (Single)</title>
+        <description>While I've produced many tracks, this is the first one I actually used in one of my sets conveniently named "In The Beginning". I plan to produce more tracks and hopefully release a few in early 2013.</description>
+        <link>http://yaronschoen.com/music/in-the-beginning-single/</link>
+        <guid>http://yaronschoen.com/music/in-the-beginning-single/</guid>
+        <pubDate>Tue, 28 Aug 2012 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Quit Waiting To Get Picked</title>
+        <description>"The opportunity of a lifetime is to pick yourself. Quit waiting to get picked; quit waiting for someone to give you permission; quit waiting for someone to say you are officially qualified and pick yourself…"</description>
+        <link>http://yaronschoen.com/writing/quit-waiting-to-get-picked/</link>
+        <guid>http://yaronschoen.com/writing/quit-waiting-to-get-picked/</guid>
+        <pubDate>Wed, 15 Aug 2012 11:30:33 GMT</pubDate>
+    </item>
+     <item>
+        <title>Solving Problems</title>
+        <description>Sure, at it's core, design is the art of solving problems. But thinking of design as only that, limits its potential. Solving problems is only the starting point. Great design turns those problems into something more approachable, fun, beautiful, more human.</description>
+        <link>http://yaronschoen.com/music/solving-problems/</link>
+        <guid>http://yaronschoen.com/music/solving-problems/</guid>
+        <pubDate>Fri, 10 Aug 2012 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>[Music] In The Beginning (Single)</title>
+        <description>While I've produced many tracks, this is the first one I actually used in one of my sets conveniently named <a href="http://yaronschoen.com/music/in-the-beginning/">"In The Beginning"</a>. I plan to produce more tracks and hopefully release a few in early 2013.</description>
+        <link>http://yaronschoen.com/music/in-the-beginning-single/</link>
+        <guid>http://yaronschoen.com/music/in-the-beginning-single/</guid>
+        <pubDate>Sun, 5 Aug 2012 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Thoughts On Movements</title>
+        <description>Just thinking out loud here, so bear with me. As much as I'd like to think that as a designer I am different, an individual, a special flower that blossoms in my own special way, the fact is that it is probably not the case. I'm part of a movement.</description>
+        <link>http://yaronschoen.com/writing/thoughts-on-movements/</link>
+        <guid>http://yaronschoen.com/writing/thoughts-on-movements/</guid>
+        <pubDate>Sun, 5 Aug 2012 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Paris Je T'aime</title>
+        <description>It's a brisk European morning, Adva and I are walking in the streets of Paris looking for a place to eat. But not just any place, we want croissants. Fresh croissants. The ones locals eat. Not some stupid touristic croissants I can find in New York.</description>
+        <link>http://yaronschoen.com/writing/paris-je-taime/</link>
+        <guid>http://yaronschoen.com/writing/paris-je-taime/</guid>
+        <pubDate>Sun, 5 Aug 2012 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Grow Up</title>
+        <description>People should stop asking if they need designers on their team or as their founding members simply because it is the wrong question to ask. In my opinion, the main question should be: What type of product am I building? </description>
+        <link>http://yaronschoen.com/writing/grow-up/</link>
+        <guid>http://yaronschoen.com/writing/grow-up/</guid>
+        <pubDate>Sun, 5 Aug 2012 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>A New Wave Of Self Promotion</title>
+        <description>It seems that we are all pretty much on the same page (at least I hope) when it comes to unsolicited designs. Up until now, designers use to re-design products on their "spare time" and publish them on various blogs and social networks.</description>
+        <link>http://yaronschoen.com/writing/a-new-wave-of-self-promotion/</link>
+        <guid>http://yaronschoen.com/writing/a-new-wave-of-self-promotion/</guid>
+        <pubDate>Sun, 5 Aug 2012 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>A Day In Tel Aviv</title>
+        <description>Hey Israeli startups and design studios, I'll be visiting Tel Aviv on April 1st and would love to meet up!</description>
+        <link>http://yaronschoen.com/writing/a-day-in-tel-aviv</link>
+        <guid>http://yaronschoen.com/writing/a-day-in-tel-aviv</guid>
+        <pubDate>Sun, 5 Aug 2012 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Introducing: Float</title>
+        <description>Ladies and gentlemen, I am thrilled to introduce Float, a project I have been bootstrapping for over a year now with my two partners in crime, Glenn Rogers and Lars Gelfan. Float is a scheduling app that aims to help agencies allocate their team's time to their client's projects. Feel free to sign up today, the first 30 days are free!</description>
+        <link>http://yaronschoen.com/writing/introducing-float</link>
+        <guid>http://yaronschoen.com/writing/introducing-float</guid>
+        <pubDate>Sun, 5 Aug 2012 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Hosting Services Are Not Designed For Humans</title>
+        <description>For over a decade I have been building websites. And for over a decade my least favorite part is dealing with domain names, hosting providers and everything in between. It's not the domain squatters or the large companies that degrade woman that bother me (though I do hate them both).</description>
+        <link>http://yaronschoen.com/writing/hosting-services-are-not-designed-for-humans</link>
+        <guid>http://yaronschoen.com/writing/hosting-services-are-not-designed-for-humans</guid>
+        <pubDate>Sun, 5 Aug 2012 11:30:33 GMT</pubDate>
+    </item>
+    
+    <item>
+        <title>Glass Onion</title>
+        <description>I told you about strawberry fields, you know the place where nothing is real. Well here's another place you can go, where everything flows. Looking through the bent backed tulips to see how the other half lives. Looking through a glass onion.</description>
+        <link>http://yaronschoen.com/articles/glass_onion/</link>
+        <guid>http://yaronschoen.com/articles/glass_onion/</guid>
+        <pubDate>Wed, 1 Feb 2012 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Terminology</title>
+        <description>Yesterday I had a conversation on Twitter with two amazingly talented folks. It was about god. Yup. Why I always have the urge to talk about god (especially on Twitter) is beyond me.</description>
+        <link>http://yaronschoen.com/articles/terminology/</link>
+        <guid>http://yaronschoen.com/articles/terminology/</guid>
+        <pubDate>Sat, 7 Jan 2012 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Revolution</title>
+        <description>You say you want a revolution, well, you know, we all want to change the world. You tell me that it's evolution, well, you know, we all want to change the world. But when you talk about destruction, don't you know that you can count me out.</description>
+        <link>http://yaronschoen.com/articles/revolution/</link>
+        <guid>http://yaronschoen.com/articles/revolution/</guid>
+        <pubDate>Sat, 7 Jan 2012 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>12 Months Of The Beatles</title>
+        <description>I've always wanted to do the 100 Day Project or something similar. You know, like drawing the same thing everyday. Taking a picture of the same place, at the same time everyday (like that dude from the movie Smoke).</description>
+        <link>http://yaronschoen.com/articles/the_beatles/</link>
+        <guid>http://yaronschoen.com/articles/the_beatles/</guid>
+        <pubDate>Sat, 7 Jan 2012 11:30:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Happy New Year</title>
+        <description>2011 was one of the most positively life changing years of my life. I couldn't have asked for anything more.</description>
+        <link>http://yaronschoen.com/articles/happy_new_year_2012/</link>
+        <guid>http://yaronschoen.com/articles/happy_new_year_2012/</guid>
+        <pubDate>Wed, 28 Dec 2011 23:51:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Inspiration</title>
+        <description>When I say inspiration, I don't necessarily mean observing a design, liking an element of that design, taking it, and incorporating it into a design you are working on.</description>
+        <link>http://yaronschoen.com/articles/inspiration/</link>
+        <guid>http://yaronschoen.com/articles/inspiration/</guid>
+        <pubDate>Wed, 28 Dec 2011 23:51:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>The Wall</title>
+        <description>I was 25 and after several years "in the internet business", I decided to do some backpacking in Thailand. I was getting kind of tired of my normal routine, working as a designer for several years and was kind of pissed that all my friends were traveling all over the world while I was stuck behind a desk, working.</description>
+        <link>http://yaronschoen.com/articles/the_wall/</link>
+        <guid>http://yaronschoen.com/articles/the_wall/</guid>
+        <pubDate>Wed, 28 Dec 2011 23:51:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Winners</title>
+        <description>"Every time a new media technology has been made available, it has always been 'abused'. This is the price we pay for progress. Winners will be those who are able to use the new technology to their advantages and losers those who missed this development and continue to follow old business models..."</description>
+        <link>http://yaronschoen.com/articles/winners/</link>
+        <guid>http://yaronschoen.com/articles/winners/</guid>
+        <pubDate>Fri, 2 Dec 2011 23:51:33 GMT</pubDate>
+    </item>    
+    <item>
+        <title>Real Life Ideas</title>
+        <description>I attended Brooklyn Beta for exactly 3 hours in total, then had to run to the hospital and help my heroic wife give birth to our beautiful baby girl. So I can't really recap the conference in a blog post...</description>
+        <link>http://yaronschoen.com/articles/real_life_ideas/</link>
+        <guid>http://yaronschoen.com/articles/real_life_ideas/</guid>
+        <pubDate>Fri, 2 Dec 2011 23:51:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Hello Twitter</title>
+        <description>Some of you may know this already but to those who don't, I am thrilled to announce that Julpan, the company I have been actively consulting for over the past year and a half, has been acquired by Twitter.</description>
+        <link>http://yaronschoen.com/articles/hello_twitter/</link>
+        <guid>http://yaronschoen.com/articles/hello_twitter/</guid>
+        <pubDate>Tue, 11 Oct 2011 23:51:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>Two</title>
+        <description>Sometimes... just sometimes, there's nothing really for me to say. Two words are enough. Nine eleven. It says it all.</description>
+        <link>http://yaronschoen.com/articles/two/</link>
+        <guid>http://yaronschoen.com/articles/two/</guid>
+        <pubDate>Sun, 11 Sept 2011 23:51:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>It's Actually Pretty Simple.</title>
+        <description>You probably had enough of this whole "designer should know how to code" crap. But I would like to jump in the pool and give my quick opinion.</description>
+        <link>http://yaronschoen.com/articles/its_actually_pretty_simple/</link>
+        <guid>http://yaronschoen.com/articles/its_actually_pretty_simple/</guid>
+        <pubDate>Thu, 1 Sept 2011 23:51:33 GMT</pubDate>
+    </item>
+    <item>
+        <title>I Re-did My Site... Again.</title>
+        <description>Despite getting some dearly appreciated good feedback about my previous site, I couldn't stand it anymore.</description>
+        <link>http://yaronschoen.com/articles/re_did_my_site_again/</link>
+        <guid>http://yaronschoen.com/articles/re_did_my_site_again/</guid>
+        <pubDate>Sun, 28 Aug 2011 23:51:33 GMT</pubDate>
+    </item>
+</channel>
+</rss>
