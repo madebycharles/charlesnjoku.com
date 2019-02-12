@@ -137,23 +137,24 @@ a:hover{
 	}
 .button{
 	display:inline-block;
-	background-color:#be005e;
+	background-color:#fff000;
 	padding:1em 2em;
-	color:#fff;font-size:.7em;
+	color:#000000;font-size:.7em;
 	}
 .button:hover{
 	background-color:#231f20;
-	color:#be005e;
+	color:#fff000;
 	}
 .button-grey{
 	display:inline-block;
-	background-color:#e2e2e2;
-	padding:1em 2em;color:#fff;
+	background-color:#fff000;
+	padding:1em 2em;
+	color:#000000;
 	font-size:.7em;
 	}
 .button-grey:hover{
 	background-color:#231f20;
-	color:#be005e;
+	color:#fff000;
 	}
 .article p{
 	margin-bottom:1em;
@@ -433,7 +434,7 @@ input:focus,textarea:focus
 .error
 {
 	background-color: #fff;
-	border: 1px solid #be005e;
+	border: 1px solid #fff000;
 }
 .error:hover
 {
@@ -441,10 +442,10 @@ input:focus,textarea:focus
 }
 .error:focus
 {
-	border: 1px solid #be005e;
-	box-shadow: 0 0 10px rgba(190,0,94,.5);
-	moz-box-shadow: 0 0 10px rgba(190,0,94,.5);
-	webkit-box-shadow: 0 0 10px rgba(190,0,94,.5);
+	border: 1px solid #fff000;
+	box-shadow: 0 0 10px rgba(255,240,0,.5);
+	moz-box-shadow: 0 0 10px rgba(255,240,0,.5);
+	webkit-box-shadow: 0 0 10px rgba(255,240,0,.5);
 }
 select
 {
@@ -457,7 +458,7 @@ select
 }
 .errormsg
 {
-	background-color: #be005e;
+	background-color: #fff000;
 	color: #fff;
 	display: table;
 	font-size: .6em;
@@ -473,6 +474,7 @@ select
 	display: table-cell;
 	position: relative;
 	vertical-align: middle;
+	color: #000000;
 }
 .input-container
 {
