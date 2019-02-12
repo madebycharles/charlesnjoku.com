@@ -427,9 +427,9 @@ input:focus,textarea:focus
 {
 	background-color: #fff;
 	border: 1px solid #00b6eb;
-	box-shadow: 0 0 10px rgba(0,182,235,.5);
-	moz-box-shadow: 0 0 10px rgba(0,182,235,.5);
-	webkit-box-shadow: 0 0 10px rgba(0,182,235,.5);
+	box-shadow: 0 0 10px rgba(255,240,0,.5);
+	moz-box-shadow: 0 0 10px rgba(255,240,0,.5);
+	webkit-box-shadow: 0 0 10px rgba(255,240,0,.5);
 }
 .error
 {
