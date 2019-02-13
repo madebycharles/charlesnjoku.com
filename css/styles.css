@@ -913,3 +913,14 @@ hr.titlehr
 	cursor: pointer;
 	box-shadow: none;
 }
+
+#Submit {
+	color:#fff000;
+	padding:0 1px;
+	text-decoration:none;
+	-moz-transition:all .2s ease-out;
+	-o-transition:all .2s ease-out;
+	-webkit-transition:all .2s ease-out;
+	-ms-transition:all .2s ease-out;
+	transition:all .2s ease-out
+	}
