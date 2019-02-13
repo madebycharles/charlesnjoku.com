@@ -74,7 +74,7 @@ img{
 	max-width:100%;
 	height:auto;
 	}
-body,input,textarea,button{
+body,input,textarea{
 	font-size:125%;
 	line-height:1.5;
 	font-family:montserrat, sans-serif;
@@ -894,33 +894,20 @@ hr.titlehr
   }
 }
 
-#submit {
-	background: none;
-	color: inherit;
+
+button{
+	display:inline-block;
+	background-color:#fff000;
+	padding:1em 2em;
+	color:#000000;
+	font-size:.7em;
 	border: none;
-	padding: 0;
-	font: inherit;
-	cursor: pointer;
-	outline: inherit;
-}
+	line-height:1.5;
+	font-family:montserrat, sans-serif;
 
 
-#submit:focus {
-	background: none;
-	border: none;
-	padding: 0;
-	font: inherit;
-	cursor: pointer;
-	box-shadow: none;
-}
-
-#Submit {
+	}
+button:hover{
+	background-color:#231f20;
 	color:#fff000;
-	padding:0 1px;
-	text-decoration:none;
-	-moz-transition:all .2s ease-out;
-	-o-transition:all .2s ease-out;
-	-webkit-transition:all .2s ease-out;
-	-ms-transition:all .2s ease-out;
-	transition:all .2s ease-out
 	}
