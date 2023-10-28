@@ -1,16 +1,35 @@
+<?xml version="1.0"?>
 <pagescount>
-	<total_html_pages>66</total_html_pages>
-	<html>6</html>
-	<img>73</img>
-	<js>12</js>
-	<css>2</css>
-	<pdf>0</pdf>
-	<xml>1</xml>
-	<txt>0</txt>
-	<fonts>8</fonts>
+	<html_total>5</html_total>
+	<html_done>3</html_done>
+	<images>64</images>
+	<script>3</script>
+	<css>1</css>
+	<pdf/>
+	<documents/>
+	<excel/>
+	<powerpoint/>
+	<flash/>
+	<audios/>
+	<videos/>
+	<xml/>
+	<json/>
+	<txt/>
+	<autocad/>
+	<fonts>16</fonts>
+	<scraping_reload>1</scraping_reload>
 	<is_pretty_url>false</is_pretty_url>
 	<is_ebn>false</is_ebn>
-	<theme_name>WDO_theme</theme_name>
-	<server_url_front_page>https://www.waybackmachinedownloader.com/website-downloader-online/scraping/files/live/yaronschoen.com_charlesunn_gmail.com_fxxmf3a5xtu</server_url_front_page>
-	<hosted_domain></hosted_domain>
-</pagescount>
+	<email>hello@charlesnjoku.com</email>
+	<theme_name>WmdTheme762850</theme_name>
+	<server_url_front_page>https://www6.waybackmachinedownloader.com/wdo/files/demo/madebycharley.webflow.io_hello_charlesnjoku.com_c8y15lqry1/</server_url_front_page>
+	<no_www_url>madebycharley.webflow.io</no_www_url>
+	<hosted_domain/>
+	<original_archive_url>http://madebycharley.webflow.io</original_archive_url>
+	<final_archive_url>https://madebycharley.webflow.io/</final_archive_url>
+	<front_page_code_date/>
+	<total_urls_from_api/>
+	<max_reached_live>false</max_reached_live>
+	<scrape_other_captures>false</scrape_other_captures>
+	<total_size>20572</total_size>
+<json_from_script>1</json_from_script></pagescount>
