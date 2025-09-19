@@ -28,7 +28,8 @@ audio:not([controls]) {
 
 .current_role {
   font-size: 24px;
-  font-weight: 300;
+  font-family: SF Pro Display, sans-serif;
+  font-style: normal;
   color: white;
 }
 a {
