@@ -29,7 +29,7 @@ audio:not([controls]) {
 .current_role {
   font-size: 24px;
   font-family: SF Pro Display, sans-serif;
-  font-style: normal;
+  font-weight: 100;
   color: white;
 }
 a {
