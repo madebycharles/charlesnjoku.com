@@ -28,6 +28,8 @@ audio:not([controls]) {
 
 .current_role {
   font-size: 24px;
+  font-weight: 300;
+  color: white;
 }
 a {
   background-color: rgba(0, 0, 0, 0);
