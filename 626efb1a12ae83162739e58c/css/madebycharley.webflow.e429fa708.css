@@ -2158,7 +2158,7 @@ h1 {
   padding-right: 0;
   position: absolute;
   top: auto;
-  bottom: 18%;
+  bottom: 10%;
   left: 0%;
   right: 0%;
 }
@@ -2354,7 +2354,6 @@ h1 {
 }
 
 .div-block-8 {
-  z-index: 20;
   width: 100%;
   height: 100%;
   filter: brightness(90%) contrast(110%);
