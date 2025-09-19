@@ -25,7 +25,10 @@ audio:not([controls]) {
 [hidden], template {
   display: none;
 }
-
+.current_role {
+  font-family: SF Pro Display, sans-serif;
+  font-size: 24px;
+}
 a {
   background-color: rgba(0, 0, 0, 0);
 }
