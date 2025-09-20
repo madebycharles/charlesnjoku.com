@@ -4976,7 +4976,7 @@ h1 {
   }
 
   .intro {
-    bottom: 30%;
+    bottom: -10%;
   }
 
   .grid-2 {
@@ -4989,9 +4989,12 @@ h1 {
     align-items: center;
     display: grid;
     position: relative;
-    top: 166px;
   }
 
+  .current_role {
+    display: block;
+    font-size: 18px;
+  }
   .location {
     display: flex;
   }
