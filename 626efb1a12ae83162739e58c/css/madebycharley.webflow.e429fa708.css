@@ -4995,8 +4995,10 @@ h1 {
     display: block;
     font-size: 18px;
   }
-  .location {
-    display: flex;
+
+  .role {
+    font-size: 32px;
+    flex-wrap: wrap;
   }
 
   .text-block-4 {
