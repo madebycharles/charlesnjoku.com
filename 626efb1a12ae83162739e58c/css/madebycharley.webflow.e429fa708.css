@@ -4977,7 +4977,7 @@ h1 {
   }
 
   .intro {
-    bottom: -10%;
+    bottom: -20%;
   }
 
   .grid-2 {
@@ -5305,7 +5305,8 @@ h1 {
 
   .text-block-3, .heading-2 {
     margin-left: 0;
-    font-size: 18px;
+    font-size: 28px;
+    text-align: center;
   }
 
   .icon-3 {
