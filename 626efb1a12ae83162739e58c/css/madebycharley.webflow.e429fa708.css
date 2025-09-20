@@ -5458,7 +5458,7 @@ h1 {
 
   .testimonials {
     padding: 10px;
-    top: 89px;
+    top: 180px;
   }
 
   .container {
@@ -5594,6 +5594,8 @@ h1 {
 
   .div-block-65 {
     justify-content: center;
+    margin-top: 150px;
+    grid-column-gap: 30px;
   }
 
   .cert_logo {
