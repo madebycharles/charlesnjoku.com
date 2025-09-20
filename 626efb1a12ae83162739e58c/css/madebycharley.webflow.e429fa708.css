@@ -4977,6 +4977,7 @@ h1 {
 
   .intro {
     bottom: -160px;
+    width: 100%;
   }
 
   .grid-2 {
@@ -5325,6 +5326,10 @@ h1 {
   .introheads {
     text-align: left;
     font-size: 2em;
+  }
+
+  .intro {
+    width: 100%;
   }
 
   .div-block-8 {
