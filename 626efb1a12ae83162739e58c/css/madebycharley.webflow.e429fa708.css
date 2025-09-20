@@ -34,6 +34,7 @@ audio:not([controls]) {
   display: flex;
   justify-content: center;
   padding-left: 15px;
+  text-align: center;
 }
 a {
   background-color: rgba(0, 0, 0, 0);
