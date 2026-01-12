@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundraisers</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #575757 0%, #000000 100%);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 500px;
+            height: 100%;
+            margin: 0 auto;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: center;
+            color: white;
+        }
+        
+        .profile-pic {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin: 0 auto 20px;
+            object-fit: cover;
+            border: 4px solid white;
+        }
+        
+        h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        
+        .bio {
+            font-size: 16px;
+            margin-bottom: 40px;
+            opacity: 0.95;
+            line-height: 1.5;
+        }
+        
+        .links {
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            margin-bottom: 40px;
+        }
+        
+        .link-card {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+            text-decoration: none;
+            color: white;
+            transition: all 0.3s ease;
+            border: 2px solid rgba(255, 255, 255, 0.2);
+        }
+        
+        .link-card:hover {
+            background: rgba(255, 255, 255, 0.2);
+            transform: translateY(-5px);
+        }
+        
+        .link-card h3 {
+            margin-bottom: 8px;
+            font-size: 18px;
+        }
+        
+        .link-card p {
+            font-size: 14px;
+            opacity: 0.9;
+        }
+        
+        .social-links {
+            text-align: center;
+            padding-top: 20px;
+        }
+        
+        .social-links a {
+            color: yellow;
+            font-size: 18px;
+            text-decoration: none;
+            transition: opacity 0.3s ease;
+        }
+        
+        .social-links a:hover {
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="your-profile-pic.jpg" alt="Profile Picture" class="profile-pic">
+        <h1>Charles's Fundraisers</h1>
+        <p class="bio">I started running just over 6 months ago as a way to improve my health and fitness. Now I am training 
+            to run 3 half-marathons and will be running to raise money for the following causes. You can support any one, or all. 
+            Thank you. It means a lot!</p>
+        
+        <div class="links">
+            <a href="https://www.justgiving.com/page/mumsheart" class="link-card" target="_blank">
+                <h3>Running for the hearts that gave us Life</h3>
+                <p>This fundraiser is to support Heart Research UK in their research into heart conditions, especially 
+                    those influenced by childbirth.</p>
+            </a>
+            
+            <a href="https://www.justgiving.com/page/madebycharles" class="link-card" target="_blank">
+                <h3>For Friendship's Sake</h3>
+                <p>This fundraiser is to support Sussex Beacon's dedication in providing care and support for individuals living with HIV.</p>
+            </a>
+            
+            <a href="https://www.justgiving.com/page/forchildren" class="link-card" target="_blank">
+                <h3>Let Kids Be Kids</h3>
+                <p>This fundraiser is to support NSPCC's work in their fight to end child abuse in the UK and Channel Islands.</p>
+            </a> 
+        </div>
+    <div class="social-links">
+        <a href="mailto:madebycharles@icloud.com" target="_blank" title="Email">📧 Further enquiries? Click to email.</a>
+    </div>
+    </div>
+    
+    
+</body>
+</html>
